@@ -210,6 +210,17 @@
                     <name>title</name>
                 </componentInstanceProperties>
                 <componentName>runtime_mobilesapp:launchPadTileList</componentName>
+               <componentInstanceProperties>
+                    <name>metricSource</name>
+                </componentInstanceProperties>
+                <componentInstanceProperties>
+                    <name>orchestrationDevName</name>
+                </componentInstanceProperties>
+                <componentInstanceProperties>
+                    <name>parentFieldApiName</name>
+                    <value>Account.Id</value>
+                </componentInstanceProperties>
+                <componentName>iot:embedded</componentName>
             </componentInstance>
         </itemInstances>
         <itemInstances>
