@@ -207,6 +207,10 @@
         <itemInstances>
             <componentInstance>
                 <componentInstanceProperties>
+                    <name>title</name>
+                </componentInstanceProperties>
+                <componentName>runtime_mobilesapp:launchPadTileList</componentName>
+               <componentInstanceProperties>
                     <name>metricSource</name>
                 </componentInstanceProperties>
                 <componentInstanceProperties>
