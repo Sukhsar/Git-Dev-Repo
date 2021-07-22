@@ -180,6 +180,19 @@
                     <value>true</value>
                 </componentInstanceProperties>
                 <componentName>force:relatedListSingleContainer</componentName>
+                    <name>tabs</name>
+                    <value>sidebartabs</value>
+                </componentInstanceProperties>
+                <componentName>flexipage:tabset</componentName>
+            </componentInstance>
+        </itemInstances>
+        <itemInstances>
+            <componentInstance>
+                <componentInstanceProperties>
+                    <name>context</name>
+                    <value>RECORD</value>
+                </componentInstanceProperties>
+                <componentName>forceChatter:publisher</componentName>
             </componentInstance>
         </itemInstances>
         <mode>Replace</mode>
